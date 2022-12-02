@@ -1,0 +1,4 @@
+[submodule "xmarts/bi-manual-currency-exchange-rate-invoice-payment"]
+	path = xmarts/bi-manual-currency-exchange-rate-invoice-payment
+	url = git@github.com:xmarts/bi-manual-currency-exchange-rate-invoice-payment.git
+	branch = 15.0.1jaro
